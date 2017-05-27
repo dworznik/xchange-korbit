@@ -1,0 +1,17 @@
+{
+  "currency_pairs": {
+    "BTC/KRW": {
+      "price_scale": 8
+    },
+    "ETH/KRW": {
+      "price_scale": 8
+    },
+    "ETC/KRW": {
+      "price_scale": 8
+    },
+    "XRP/KRW": {
+      "price_scale": 8
+    }
+  },
+  "currencies": {}
+}
